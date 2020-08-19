@@ -1,2 +1,1 @@
-# mugen430.github.io
-My personal webpage
+# Responsive-Portfolio-HW02
