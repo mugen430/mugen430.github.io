@@ -1,6 +1,7 @@
 .gbackground, html, body{
-    background-image: url('../image/overlooking.jpg');
-    background-size: 100%;
+    background-image: url('../image/csc.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
     background-attachment: fixed;
     width: 100%;
     height: 100%;
@@ -29,5 +30,3 @@ input[type=text] {
     border: 2px solid white);
     border-radius: 4px;
   }
-
-  
